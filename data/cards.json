@@ -1,1 +1,18 @@
-
+[
+  {
+    "name": "Ashnod's Altar",
+    "text": "Sacrifice a creature: Add CC."
+  },
+  {
+    "name": "Gravecrawler",
+    "text": "You may cast Gravecrawler from your graveyard if you control a Zombie."
+  },
+  {
+    "name": "Phyrexian Altar",
+    "text": "Sacrifice a creature: Add one mana of any color."
+  },
+  {
+    "name": "Blood Artist",
+    "text": "Whenever a creature dies, target player loses 1 life."
+  }
+]
